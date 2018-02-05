@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marklogic:marklogic-corb:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-corb/2.4.0/7fd5847b3a0ab699795e0256e007fb925d1ffb4d/marklogic-corb-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marklogic/marklogic-corb/2.4.0/1b7676f046d261b6dfb99354778861bda5ab0e39/marklogic-corb-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
